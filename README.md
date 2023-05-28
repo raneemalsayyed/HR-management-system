@@ -1,5 +1,16 @@
 # HR-management-system
 
+<h2> New changes on JS file: </h2> 
+
+1. applying style to the html file using the javascript file.
+2. rendering each employee information on a separate card.
+3. changing employees images.
+4. separating cards according to their department.
+
+
+
+
+
 <h2>Changes made on the JS file:</h2>
 
 
